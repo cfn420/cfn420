@@ -7,7 +7,7 @@ Bio:
 - Visiting Researcher at Peking University in 2024, researching neural net compression.
 - Interested in AI Safety and long-term impacts of AI.
 
-Reach out via [Linkedin](https://www.linkedin.com/in/view-christian-franssen/) or email: c.p.c.fransssen [at] vu.nl
+Reach out via [Linkedin](https://www.linkedin.com/in/view-christian-franssen/) or email: c.p.c.fransssen [at] vu.nl.
 
 ---
 
