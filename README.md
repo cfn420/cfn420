@@ -15,6 +15,7 @@ Reach out via [Linkedin](https://www.linkedin.com/in/view-christian-franssen/) o
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=cfn420&repo=llm-ablate&theme=default)](https://github.com/cfn420/llm-ablate)
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=cfn420&repo=wanda-connect&theme=default&v2)](https://github.com/cfn420/wanda-connect)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=cfn420&repo=CoNNect&theme=default&v2)](https://github.com/cfn420/CoNNect)
 
 ## Mathematical Optimization / Control Theory
 
