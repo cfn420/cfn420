@@ -3,8 +3,8 @@
 Bio:
 
 - PhD Candidate at VU Amsterdam, researching AI and Mathematical Optimization.
-- Visiting Researcher at Data Science Hub @ De Nederlandsche Bank, researching AI / ML methods for studying financial transaction networks.
-- Visiting Researcher at Peking University in 2024, researching neural net compression.
+- Data Scientist in Financial and Economic Crime at Rabobank.
+- Research Felllow at Future Impact Group.
 - Interested in AI Safety and long-term impacts of AI.
 
 Reach out via [Linkedin](https://www.linkedin.com/in/view-christian-franssen/) or email: c.p.c.fransssen [at] vu.nl.
