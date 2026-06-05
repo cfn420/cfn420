@@ -6,7 +6,7 @@ Bio:
 - Full-time Data Scientist in Financial and Economic Crime at Rabobank.
 - Part-time AI Safety Research Fellow at Future Impact Group.
 
-Reach out via [Linkedin](https://www.linkedin.com/in/view-christian-franssen/) or email: c.p.c.fransssen [at] vu.nl.
+Reach out via [Linkedin](https://www.linkedin.com/in/view-christian-franssen/) or email: c.fransssen [at] hotmail.com.
 
 ---
 
