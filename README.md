@@ -12,18 +12,18 @@ Reach out via [Linkedin](https://www.linkedin.com/in/view-christian-franssen/) o
 
 ## AI
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=cfn420&repo=llm-ablate&theme=default)](https://github.com/cfn420/llm-ablate)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=cfn420&repo=wanda-connect&theme=default&v2)](https://github.com/cfn420/wanda-connect)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=cfn420&repo=CoNNect&theme=default&v2)](https://github.com/cfn420/CoNNect)
+[![Repo Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=cfn420&repo=llm-ablate&theme=default)](https://github.com/cfn420/llm-ablate)
+[![Repo Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=cfn420&repo=wanda-connect&theme=default)](https://github.com/cfn420/wanda-connect)
+[![Repo Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=cfn420&repo=CoNNect&theme=default)](https://github.com/cfn420/CoNNect)
 
 ## Mathematical Optimization / Control Theory
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=cfn420&repo=mcopt&theme=default)](https://github.com/cfn420/mcopt)
+[![Repo Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=cfn420&repo=mcopt&theme=default)](https://github.com/cfn420/mcopt)
 
 ## Network Science
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=cfn420&repo=fbnc&theme=default)](https://github.com/cfn420/fbnc)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=cfn420&repo=irbc&theme=default)](https://github.com/cfn420/irbc)
+[![Repo Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=cfn420&repo=fbnc&theme=default)](https://github.com/cfn420/fbnc)
+[![Repo Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=cfn420&repo=irbc&theme=default)](https://github.com/cfn420/irbc)
 
 
 <!--
