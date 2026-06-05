@@ -2,10 +2,9 @@
 
 Bio:
 
-- PhD Candidate at VU Amsterdam, researching AI and Mathematical Optimization.
-- Data Scientist in Financial and Economic Crime at Rabobank.
-- Research Felllow at Future Impact Group.
-- Interested in AI Safety and long-term impacts of AI.
+- Recently graduated PhD candidate at VU Amsterdam, researching AI and mathematical optimization.
+- Part-time Research Fellow at Future Impact Group. 
+- Full-time Data Scientist in Financial and Economic Crime at Rabobank.
 
 Reach out via [Linkedin](https://www.linkedin.com/in/view-christian-franssen/) or email: c.p.c.fransssen [at] vu.nl.
 
